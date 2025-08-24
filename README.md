@@ -56,4 +56,4 @@ A modern, interactive digital implementation of the classic Snake & Ladders boar
 
 **Enjoy the classic board game experience!** 🎲✨
 
-*Built with ❤️ by Nada Marey [https://github.com/NadaMarei]*
+*Built with ❤️ by Nada Marey*
